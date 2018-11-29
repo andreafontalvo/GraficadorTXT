@@ -1,8 +1,3 @@
-#   Interfaz de pruebas UI V0.0
-#   Proyecto: SANA
-#   Escrito por: Andrea Fontalvo
-#   Noviembre 2018
-
 """
        Este script permite:
        * cargar señal desde TXT y visualizarla
